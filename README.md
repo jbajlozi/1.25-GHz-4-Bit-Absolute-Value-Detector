@@ -1,1 +1,1 @@
-# Absolute_Value_Detector_ece115c
+# 1.25 GHz 4 bit Absolute Value Detector
